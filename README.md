@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-gupta1&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-gupta1" /> </p>
 
-- 💬 Ask me about **DSA, C++, ML, Python, Java, Web Development**
+- 💬 Ask me about **DSA, C++, ML, Python, Java, Web Development, ML**
 
 - 📫 How to reach me **Hemant.Gupta@iiitb.ac.in**
 
